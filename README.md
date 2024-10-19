@@ -55,11 +55,11 @@
 
 ## Installation
 
-You can download [**Repository**](https://github.com/FreddyWhest/MemeFiBot-New) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/sabbir520/MemeFiBot-New-Main.git) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
-~ >>> git clone https://github.com/FreddyWhest/MemeFiBot-New.git
-~ >>> cd MemeFiBot-New
+~ >>> git clone https://github.com/sabbir520/MemeFiBot-New-Main.git
+~ >>> cd MemeFiBot-New-Main
 
 #Linux and MocOS
 ~/MemeFiBot-New >>> chmod +x check_node.sh
